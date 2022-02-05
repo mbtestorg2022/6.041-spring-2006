@@ -23,32 +23,345 @@ Ross, S. _A First Course in Probability_. Upper Saddle River, NJ: Prentice Hall,
 Readings by Session
 -------------------
 
-| Ses # | TOPICS | Readings |
-| --- | --- | --- |
-| L1 | Probability Models and Axioms | Sections 1.1-1.2 |
-| L2 | Conditioning and Bayes' Rule | Sections 1.3-1.4 |
-| L3 | Independence | Section 1.5 |
-| L4 | Counting | Section 1.6 |
-| L5 | Discrete Random Variables; Probability Mass Functions; Expectations | Sections 2.1-2.4 |
-| L6 | Conditional Expectation; Examples | Sections 2.4-2.6 |
-| L7 | Multiple Discrete Random Variables | Section 2.7 |
-| L8 | Continuous Random Variables - I | Sections 3.1-3.3 |
-| L9 | Continuous Random Variables - II | Sections 3.4-3.5 |
-| L10 | Continuous Random Variables and Derived Distributions | Section 3.6 |
-| &nbsp; | Quiz 1 (Covers up to Lec #1-8 Inclusive) | &nbsp; |
-| L11 | More on Continuous Random Variables, Derived Distributions, Convolution | Section 4.2 |
-| L12 | Transforms | Section 4.1 |
-| L13 | Iterated Expectations | Sections 4.3 |
-| L13A | Sum of a Random Number of Random Variables | Section 4.4 |
-| L14 | Prediction; Covariance and Correlation | Sections 4.5-4.6 |
-| L15 | Weak Law of Large Numbers | Sections 7.1-7.3 |
-| &nbsp; | Quiz 2 (Covers up to and Including Lec #14) | &nbsp; |
-| L16 | Bernoulli Process | Section 5.1 |
-| L17 | Poisson Process | Section 5.2 |
-| L18 | Poisson Process Examples | Section 5.2 |
-| L19 | Markov Chains - I | Sections 6.1-6.2 |
-| L20 | Markov Chains - II | Section 6.3 |
-| L21 | Markov Chains - III | Section 6.4 |
-| L22 | Central Limit Theorem | Section 7.4 |
-| L23 | Central Limit Theorem (cont.), Strong Law of Large Numbers | Section 7.5 |
-| &nbsp; | Final Exam |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Ses #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+Readings
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+Probability Models and Axioms
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 1.1-1.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+Conditioning and Bayes' Rule
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 1.3-1.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+Independence
+{{< tdclose >}}
+{{< tdopen >}}
+Section 1.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+Counting
+{{< tdclose >}}
+{{< tdopen >}}
+Section 1.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+Discrete Random Variables; Probability Mass Functions; Expectations
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 2.1-2.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+Conditional Expectation; Examples
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 2.4-2.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7
+{{< tdclose >}}
+{{< tdopen >}}
+Multiple Discrete Random Variables
+{{< tdclose >}}
+{{< tdopen >}}
+Section 2.7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+{{< tdopen >}}
+Continuous Random Variables - I
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 3.1-3.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+Continuous Random Variables - II
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 3.4-3.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+Continuous Random Variables and Derived Distributions
+{{< tdclose >}}
+{{< tdopen >}}
+Section 3.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1 (Covers up to Lec #1-8 Inclusive)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+More on Continuous Random Variables, Derived Distributions, Convolution
+{{< tdclose >}}
+{{< tdopen >}}
+Section 4.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+Transforms
+{{< tdclose >}}
+{{< tdopen >}}
+Section 4.1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13
+{{< tdclose >}}
+{{< tdopen >}}
+Iterated Expectations
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 4.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13A
+{{< tdclose >}}
+{{< tdopen >}}
+Sum of a Random Number of Random Variables
+{{< tdclose >}}
+{{< tdopen >}}
+Section 4.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L14
+{{< tdclose >}}
+{{< tdopen >}}
+Prediction; Covariance and Correlation
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 4.5-4.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L15
+{{< tdclose >}}
+{{< tdopen >}}
+Weak Law of Large Numbers
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 7.1-7.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2 (Covers up to and Including Lec #14)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L16
+{{< tdclose >}}
+{{< tdopen >}}
+Bernoulli Process
+{{< tdclose >}}
+{{< tdopen >}}
+Section 5.1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L17
+{{< tdclose >}}
+{{< tdopen >}}
+Poisson Process
+{{< tdclose >}}
+{{< tdopen >}}
+Section 5.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L18
+{{< tdclose >}}
+{{< tdopen >}}
+Poisson Process Examples
+{{< tdclose >}}
+{{< tdopen >}}
+Section 5.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L19
+{{< tdclose >}}
+{{< tdopen >}}
+Markov Chains - I
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 6.1-6.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L20
+{{< tdclose >}}
+{{< tdopen >}}
+Markov Chains - II
+{{< tdclose >}}
+{{< tdopen >}}
+Section 6.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L21
+{{< tdclose >}}
+{{< tdopen >}}
+Markov Chains - III
+{{< tdclose >}}
+{{< tdopen >}}
+Section 6.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L22
+{{< tdclose >}}
+{{< tdopen >}}
+Central Limit Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+Section 7.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L23
+{{< tdclose >}}
+{{< tdopen >}}
+Central Limit Theorem (cont.), Strong Law of Large Numbers
+{{< tdclose >}}
+{{< tdopen >}}
+Section 7.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

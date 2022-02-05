@@ -90,13 +90,66 @@ Grades will be determined by your work in all aspects of this subject. After all
 
 The "formula" that will be used to determine your grade is:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| First Quiz | 25% |
-| Second Quiz | 25% |
-| Final Exam | 35% |
-| Homework (Based on your best 10 out of 11 homeworks) | 10% |
-| Interest, Effort and Mastery | 5% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+First Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Second Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework (Based on your best 10 out of 11 homeworks)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Interest, Effort and Mastery
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Interest, effort and mastery: 5% (Your recitation instructor's and tutorial TA's combined assessment, based primarily on their personal contact with you during recitations, tutorials and office hours.)
 
