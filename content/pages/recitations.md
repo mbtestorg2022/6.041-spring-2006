@@ -262,7 +262,7 @@ R8
 Marginal, Conditional Densities/Expected Values/Variances ([PDF]({{< baseurl >}}/resources/rec08))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/rec08_ans))
+([PDF]({{< baseurl >}}/resources/rec08_ans))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -418,7 +418,7 @@ R21
 Conditional Probabilities for a Birth-death Process ([PDF]({{< baseurl >}}/resources/rec21))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/rec21_ans))
+([PDF]({{< baseurl >}}/resources/rec21_ans))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -605,7 +605,7 @@ Poisson Process, Conditional Expectation, Markov Chain ([PDF]({{< baseurl >}}/re
 T12
 {{< tdclose >}}
 {{< tdopen >}}
-Markov Chains: Steady State Behavior and Absorption Probabilities (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/tut12))
+Markov Chains: Steady State Behavior and Absorption Probabilities ([PDF]({{< baseurl >}}/resources/tut12))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/tut12_ans))
