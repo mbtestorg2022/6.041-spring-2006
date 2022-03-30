@@ -4,6 +4,7 @@ description: This resource contains information on random variables, probability
   function, and expectation.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/965eca66579cdce0556d578f7bc69e58_lec05.pdf
 file_type: application/pdf
+parent_uid: 5115a4d4-14f7-2093-5613-ea130dd27f49
 resourcetype: Document
 title: lec05.pdf
 uid: 965eca66-579c-dce0-556d-578f7bc69e58

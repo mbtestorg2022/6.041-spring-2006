@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains answers to tutorial eight.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/dd652d290a84601c197ef9ec13c78d38_tut08_ans.pdf
 file_type: application/pdf
+parent_uid: 72e75de2-011e-beee-30c9-acf41ced8ab8
 resourcetype: Document
 title: tut08_ans.pdf
 uid: dd652d29-0a84-601c-197e-f9ec13c78d38

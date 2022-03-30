@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains answers to problems given in recitation thirteen.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/d668a3439bb58214a7b2b2abb127d29c_rec13_ans.pdf
 file_type: application/pdf
+parent_uid: 72e75de2-011e-beee-30c9-acf41ced8ab8
 resourcetype: Document
 title: rec13_ans.pdf
 uid: d668a343-9bb5-8214-a7b2-b2abb127d29c

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problem set for recitation seventeen.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/c508c8c52a9696f83d1cf8f110eb52be_rec17.pdf
 file_type: application/pdf
+parent_uid: 72e75de2-011e-beee-30c9-acf41ced8ab8
 resourcetype: Document
 title: rec17.pdf
 uid: c508c8c5-2a96-96f8-3d1c-f8f110eb52be

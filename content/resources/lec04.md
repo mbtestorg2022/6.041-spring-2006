@@ -4,6 +4,7 @@ description: This resource contains information on principles of counting, and b
   probabilities.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/8bfb4ed055f03a8031cb1f847e3545ed_lec04.pdf
 file_type: application/pdf
+parent_uid: 5115a4d4-14f7-2093-5613-ea130dd27f49
 resourcetype: Document
 title: lec04.pdf
 uid: 8bfb4ed0-55f0-3a80-31cb-1f847e3545ed

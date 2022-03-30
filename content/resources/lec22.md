@@ -4,6 +4,7 @@ description: This resource contains information on central limit theorem, and po
   problem.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/76e66ae14d4a88936b9b3922cfc6f31a_lec22.pdf
 file_type: application/pdf
+parent_uid: 5115a4d4-14f7-2093-5613-ea130dd27f49
 resourcetype: Document
 title: lec22.pdf
 uid: 76e66ae1-4d4a-8893-6b9b-3922cfc6f31a
